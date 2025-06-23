@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "cat-1",
+    "name": "Rudiments",
+    "description": "Essential drum rudiments and techniques",
+    "color": "#FFB612",
+    "sortOrder": 1
+  },
+  {
+    "id": "cat-2", 
+    "name": "Rock",
+    "description": "Rock drumming patterns and grooves",
+    "color": "#FF9149",
+    "sortOrder": 2
+  },
+  {
+    "id": "cat-3",
+    "name": "Jazz", 
+    "description": "Jazz drumming styles and improvisation",
+    "color": "#60B5FF",
+    "sortOrder": 3
+  },
+  {
+    "id": "cat-4",
+    "name": "Latin",
+    "description": "Latin rhythms and percussion", 
+    "color": "#FF9898",
+    "sortOrder": 4
+  },
+  {
+    "id": "cat-5",
+    "name": "Funk",
+    "description": "Funk grooves and syncopation",
+    "color": "#80D8C3",
+    "sortOrder": 5
+  },
+  {
+    "id": "cat-6",
+    "name": "Fills",
+    "description": "Drum fills and transitions",
+    "color": "#A19AD3", 
+    "sortOrder": 6
+  }
+]

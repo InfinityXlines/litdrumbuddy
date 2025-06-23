@@ -1,0 +1,213 @@
+
+[
+  {
+    "id": "ex-1",
+    "name": "Single Stroke Roll",
+    "description": "Alternating single strokes between hands",
+    "instructions": "Play alternating R-L-R-L strokes. Start slowly and focus on even spacing and consistent volume between hands.",
+    "difficulty": 1,
+    "suggestedBpm": 80,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-1",
+      "name": "Rudiments",
+      "color": "#FFB612"
+    }
+  },
+  {
+    "id": "ex-2",
+    "name": "Double Stroke Roll",
+    "description": "Two strokes per hand alternating", 
+    "instructions": "Play RR-LL-RR-LL. Focus on making the second stroke in each hand bounce naturally.",
+    "difficulty": 2,
+    "suggestedBpm": 100,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-1",
+      "name": "Rudiments",
+      "color": "#FFB612"
+    }
+  },
+  {
+    "id": "ex-3",
+    "name": "Paradiddle",
+    "description": "R-L-R-R, L-R-L-L pattern",
+    "instructions": "Play R-L-R-R, then L-R-L-L. The double stroke should flow smoothly after the alternating strokes.",
+    "difficulty": 2,
+    "suggestedBpm": 90,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-1",
+      "name": "Rudiments", 
+      "color": "#FFB612"
+    }
+  },
+  {
+    "id": "ex-4",
+    "name": "Flam",
+    "description": "Two strokes played almost simultaneously",
+    "instructions": "Play a grace note followed immediately by the main stroke with the opposite hand.",
+    "difficulty": 3,
+    "suggestedBpm": 70,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-1",
+      "name": "Rudiments",
+      "color": "#FFB612"
+    }
+  },
+  {
+    "id": "ex-5",
+    "name": "Basic Rock Beat",
+    "description": "Foundation rock drumming pattern",
+    "instructions": "Kick on 1 and 3, snare on 2 and 4, hi-hat on all quarter notes.",
+    "difficulty": 1,
+    "suggestedBpm": 120,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-2",
+      "name": "Rock",
+      "color": "#FF9149"
+    }
+  },
+  {
+    "id": "ex-6",
+    "name": "Rock Beat with Hi-Hat Foot",
+    "description": "Adding hi-hat foot to basic rock beat",
+    "instructions": "Play basic rock beat while adding hi-hat foot on the & of 2 and & of 4.",
+    "difficulty": 2,
+    "suggestedBpm": 110,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-2",
+      "name": "Rock",
+      "color": "#FF9149"
+    }
+  },
+  {
+    "id": "ex-7",
+    "name": "Power Rock Beat",
+    "description": "Driving rock pattern with emphasis",
+    "instructions": "Kick on 1, 2+, 4. Snare on 2, 4. Hi-hat eighth notes.",
+    "difficulty": 3,
+    "suggestedBpm": 130,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-2", 
+      "name": "Rock",
+      "color": "#FF9149"
+    }
+  },
+  {
+    "id": "ex-8",
+    "name": "Jazz Swing Pattern",
+    "description": "Basic jazz ride cymbal pattern",
+    "instructions": "Play triplet-based ride cymbal pattern with swing feel. Emphasize beats 1 and 3.",
+    "difficulty": 3,
+    "suggestedBpm": 120,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-3",
+      "name": "Jazz",
+      "color": "#60B5FF"
+    }
+  },
+  {
+    "id": "ex-9",
+    "name": "Comping Pattern",
+    "description": "Left hand and bass drum accompaniment",
+    "instructions": "Practice various snare and kick combinations while maintaining steady ride cymbal.",
+    "difficulty": 4,
+    "suggestedBpm": 140,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-3",
+      "name": "Jazz",
+      "color": "#60B5FF"
+    }
+  },
+  {
+    "id": "ex-10",
+    "name": "Bossa Nova",
+    "description": "Brazilian bossa nova rhythm",
+    "instructions": "Light kick pattern with cross-stick snare and subtle hi-hat work.",
+    "difficulty": 3,
+    "suggestedBpm": 130,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-4",
+      "name": "Latin",
+      "color": "#FF9898"
+    }
+  },
+  {
+    "id": "ex-11",
+    "name": "Samba",
+    "description": "Traditional Brazilian samba rhythm",
+    "instructions": "Syncopated kick and snare pattern with driving hi-hat.",
+    "difficulty": 4,
+    "suggestedBpm": 150,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-4",
+      "name": "Latin",
+      "color": "#FF9898"
+    }
+  },
+  {
+    "id": "ex-12",
+    "name": "Linear Funk Pattern",
+    "description": "No limbs play simultaneously",
+    "instructions": "Create groove where kick, snare, and hi-hat never play at the same time.",
+    "difficulty": 4,
+    "suggestedBpm": 100,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-5",
+      "name": "Funk",
+      "color": "#80D8C3"
+    }
+  },
+  {
+    "id": "ex-13",
+    "name": "Ghost Note Groove",
+    "description": "Subtle snare hits between main beats",
+    "instructions": "Add quiet snare hits between accented snare beats for texture.",
+    "difficulty": 3,
+    "suggestedBpm": 90,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-5",
+      "name": "Funk", 
+      "color": "#80D8C3"
+    }
+  },
+  {
+    "id": "ex-14",
+    "name": "Basic Tom Fill",
+    "description": "Simple tom-tom fill pattern",
+    "instructions": "Move around the toms in a simple pattern, ending with crash on beat 1.",
+    "difficulty": 2,
+    "suggestedBpm": 100,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-6",
+      "name": "Fills",
+      "color": "#A19AD3"
+    }
+  },
+  {
+    "id": "ex-15",
+    "name": "Linear Fill",
+    "description": "Fill using linear concept",
+    "instructions": "Create fill where only one limb plays at a time, maintaining clear separation.",
+    "difficulty": 4,
+    "suggestedBpm": 110,
+    "timeSignature": "4/4",
+    "category": {
+      "id": "cat-6",
+      "name": "Fills",
+      "color": "#A19AD3"
+    }
+  }
+]
