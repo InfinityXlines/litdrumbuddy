@@ -90,6 +90,15 @@ model Exercise {
     suggestedBpm Int?
     timeSignature String @default("4/4")
     isPreset     Boolean @default(true)
+    
+    // Video fields for 3-video upload functionality
+    video1Url    String? // Primary demonstration video
+    video2Url    String? // Alternative angle or slow-motion video
+    video3Url    String? // Practice along video
+    video1Title  String? // Title for video 1
+    video2Title  String? // Title for video 2
+    video3Title  String? // Title for video 3
+    
     createdAt    DateTime @default(now())
     updatedAt    DateTime @updatedAt
     
